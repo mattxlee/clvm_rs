@@ -15,6 +15,7 @@ pub mod reduction;
 pub mod run_program;
 pub mod serialize;
 mod sha2;
+pub mod capi;
 
 #[cfg(test)]
 mod tests;
